@@ -2,6 +2,10 @@
 
 A high-performance load cell brake upgrade for the Logitech G29, designed to deliver realistic, pressure-based braking with precision, consistency, and adjustability.
 
+<p align="center">
+  <img src="overview 2.png" width="100%">
+</p>
+
 ---
 
 ## 🚀 Overview
