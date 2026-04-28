@@ -21,6 +21,10 @@ This results in:
 
 ## 📸 Hardware
 
+<p align="center">
+  <img src="Photos/enhanced/real.png" width="100%">
+</p>
+
 ### PCB Top Layer
 
 <img src="hardware/pcb/PCB Layout top.png" width="700">
@@ -28,11 +32,6 @@ This results in:
 ### PCB Bottom Layer
 
 <img src="hardware/pcb/PCB Layout botton.png" width="700">
-
-
-<p align="center">
-  <img src="Photos/enhanced/real.png" width="100%">
-</p>
 
 ---
 
