@@ -5,7 +5,6 @@ A high-performance load cell brake upgrade for the Logitech G29, designed to del
 <p align="center">
   <img src="overview 2.png" width="100%">
 </p>
-
 ---
 
 ## 🚀 Overview
@@ -29,6 +28,11 @@ This results in:
 ### PCB Bottom Layer
 
 <img src="hardware/pcb/PCB Layout botton.png" width="700">
+
+
+<p align="center">
+  <img src="Photos/enhanced/real.png" width="100%">
+</p>
 
 ---
 
