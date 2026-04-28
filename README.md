@@ -140,3 +140,10 @@ Feel free to fork, improve, and share your version.
 ## 📄 License
 
 Licensed under the Apache License 2.0
+
+## ❤️ Support the Project
+
+If you found this project useful, consider supporting:
+
+- Subscribe: https://youtube.com/@brant_channel
+- Share your build with the community
